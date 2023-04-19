@@ -30,23 +30,23 @@ a {
 
 .overview-article img {
   width: 100%;
-  margin-top: 15%;
+  margin-top: 5%;
 }
 
 .overview-article a {
-  background-color: #FFCA41;
   color: white;
-  margin-top: 0;
-  padding-bottom: 18%;
+  background-color: #FFCA41;
+
 }
 
 .overview-article h1 {
-  padding: 3%;
+  padding: 4% 5% 8% 5%;
   font-size: 1.5rem;
+  background-color: #FFCA41;
 }
 
 .overview-article p {
-  padding-top: 5%;
+  margin: 5% 0;
 }
 
 
